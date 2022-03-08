@@ -1,4 +1,10 @@
 # ceng216-numerical-analysis
 Matin Huseynzade's side projects and homework solutions related to Numerical Analysis class. 
 
-## Finding roots of an equation given an x interval using bisection method
+## bisection_method.py
+
+### Demonstration
+- For now, program assumes all the inputs to be correct.
+- All the definitions in built in python and in math library can be used to enter expressions
+
+![bisection_method](https://github.com/chillmetin/ceng216-numerical-analysis/blob/main/bisection_method_demonstration.gif?raw=true)
