@@ -16,3 +16,6 @@ Matin Huseynzade's side projects and homework solutions related to Numerical Ana
 - input is assumed to be in radian
 
 ![Fixed Point Iteration](https://github.com/chillmetin/ceng216-numerical-analysis/blob/main/fixed_point_iteration.gif?raw=true)
+ 
+ - Here is the cobweb diagram of cos(x) plotted from the iteration that converges into Fixed Point 
+ ![Cobweb Diagram](https://github.com/chillmetin/ceng216-numerical-analysis/blob/main/FPI_cobweb_diagram.png?raw=true)
