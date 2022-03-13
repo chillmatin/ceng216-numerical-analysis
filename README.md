@@ -9,10 +9,10 @@ Matin Huseynzade's side projects and homework solutions related to Numerical Ana
 
 ![bisection_method](https://github.com/chillmetin/ceng216-numerical-analysis/blob/main/bisection_method_demonstration.gif?raw=true)
 
-## Fixed Point Iteration
+## fixed_point_iteration.py
 - Demonstrating how cos() function converges into a fixed point value after doing a fixed point iteration
 
-## Demonstration
+### Demonstration
 - input is assumed to be in radian
 
 ![Fixed Point Iteration](https://github.com/chillmetin/ceng216-numerical-analysis/blob/main/fixed_point_iteration.gif?raw=true)
