@@ -46,7 +46,7 @@ for i in range(1000):
         break
 
 
-plt.plot(x_set, y_set, color="r", linestyle=":")
+plt.plot(x_set, y_set, color="r", linestyle="--")
 plt.xlim(-pi, pi)
 plt.show()
 
